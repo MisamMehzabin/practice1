@@ -1,0 +1,30 @@
+/* .tablee{
+
+    border-collapse: collapse;
+
+}
+td,th{
+    border: 1px solid black;
+    padding: 5px 7px;
+}
+.misamR{
+    background-color: pink;
+} */
+ th,td{
+    border: 1px solid black;
+    padding: 5px 9px;
+    text-align: center;
+ }
+.cala{
+    border-collapse: collapse;
+}
+th{
+    background-color: antiquewhite;
+}
+.red{
+    background-color: red;
+    color: white;
+}
+.textRed{
+    color: red;
+}
